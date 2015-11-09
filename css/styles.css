@@ -1,0 +1,74 @@
+/* Seperates logo from tabs */
+.navbar > .container .navbar-brand {
+	margin-right: 1em;
+}
+
+/* Change the color of the active tab! */
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #7D7D7D;
+}
+
+/* Fixes position of NavBar dropdown */
+.navbar > .container > button {
+	top: 22.5px;
+	border: solid 1px;
+	border-radius: 10px;
+}
+
+/* Fixes height of each NavBar tab */
+.navbar-nav>li>a {
+	line-height: 64px;
+	font-size: 14px;
+}
+
+/* Fixes text branding on footer */
+#footer-text {
+	margin-top: 1.5em;
+}
+
+/* Jumbotron background color */
+.jumbotron {
+	background-color: #E1E1E1;
+}
+
+/* Jumbotron header seperation fix from paragraphs */
+.container > .jumbotron > h1 {
+	padding-bottom: 0.5em;
+}
+
+/* Fixes space between footer and bottom of page */
+body {
+	margin-bottom: 80px;
+}
+
+/* Fixes size of column images */
+#colimg {
+	max-width:350px;
+	max-height:350px;
+}
+
+/* Fixes space between frontpage glyphicons and text */
+.glyphicon {
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+/* Fixes color of modal-footer */
+.modal-footer {
+	background-color: #E6E6E6;
+}
+
+/* Fixes banner width and margins */
+.featuredImg {
+	margin-top: 10px;
+	margin-bottom:15px;
+	width: 100%;
+}
+
+/* Fixes size of list-group-items */
+.list-group-item {
+	font-size: 1.15em;
+}

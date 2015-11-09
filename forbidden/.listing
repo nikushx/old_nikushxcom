@@ -1,0 +1,5 @@
+drwxrwxr-x   2 nikushx  apache       4096 Apr 20  2014 .
+drwxrwxrwx  14 nikushx  apache       4096 Sep  9  2014 ..
+-rw-rw-r--   1 nikushx  apache        105 Apr 20  2014 .htaccess
+-rw-rw-r--   1 nikushx  apache         10 Apr 20  2014 .htpasswd
+-rw-rw-r--   1 nikushx  apache       4473 Apr 20  2014 readme.auth_remote.txt
