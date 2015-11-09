@@ -32,35 +32,9 @@
 
 							<div class = "page-header">
 
-								<h3>Downloads/Links Hub <small>Editted on: <?php echo date ("F d" . ", " . "Y", getlastmod()); ?></small></h3>
+								<h3>Links Section<small> Editted on: <?php echo date ("F d" . ", " . "Y", getlastmod()); ?></small></h3>
 
 							</div>
-
-							<!--Downloads Section-->
-
-							<img class = "featuredImg" src = "img/download-banner.jpg" />
-
-								<h4>Software</h4>
-								<p>
-
-									<ul class = "list-group">
-
-										<li class = "list-group-item"><a href = "#">No Software Yet!</a></li>
-
-									</ul>
-
-								</p>
-
-								<h4>Media</h4>
-								<p>
-
-									<ul class = "list-group">
-
-										<li class = "list-group-item"><a href = "#">No Media Yet!</a></li>
-
-									</ul>
-
-								</p>
 
 							<!--Links Section-->
 
@@ -71,7 +45,7 @@
 
 									<ul class = "list-group">
 
-										<li class = "list-group-item"><a href = "http://www.cryptominers.me/">CryptoMiners</a></li>
+										<li class = "list-group-item"><a href = "http://www.cryptominers.me/">CryptoMiners (scrap)</a></li>
 										<li class = "list-group-item"><a href = "http://www.laptops4college.com/">Laptops4College</a></li>
 										<li class = "list-group-item"><a href = "#">More Projects To Come...</a></li>
 
@@ -79,23 +53,30 @@
 
 								</p>
 
-								<h4>My Places</h4>
+								<h4>Connect w/ Me</h4>
 								<p>
 
 									<ul class = "list-group">
 
-										<li class = "list-group-item"><a href = "https://www.facebook.com/pages/Cryptominersme/1525362114356456">CryptoMiners Facebook Page</a></li>
-										<li class = "list-group-item"><a href = "https://www.facebook.com/pages/GamingKing/1536255743322400">NIKUSHx Facebook Page</a></li>
-										<li class = "list-group-item"><a href = "https://www.youtube.com/channel/UCnmzMHiCu-pyLAlGbyCNhCA">NIKUSHx YouTube</a></li>
-										<li class = "list-group-item"><a href = "https://twitter.com/GamingKush">NIKUSHx Twitter</a></li>
-										<li class = "list-group-item"><a href = "http://www.reddit.com/user/nikushx">NIKUSHx Reddit</a></li>
-										<li class = "list-group-item"><a href = "http://www.twitch.tv/gamingkingkush">NIKUSHx Twitch.tv</a></li>
-										<li class = "list-group-item"><a href = "https://player.me/gamingking">NIKUSHx Player.me</a></li>
-										<li class = "list-group-item"><a href = "gifs.php">NIKUSHx's Psychedelic GIFs</a></li>
+										<li class = "list-group-item"><a href = "https://github.com/nikushx">Github</a></li>
+										<li class = "list-group-item"><a href = "https://www.linkedin.com/in/nikush-dalia-a40280108">LinkedIn</a></li>
 
 									</ul>
 
 								</p>
+								
+								<h4>Misc.</h4>
+								<p>
+									
+									<ul class = "list-group">
+									
+										<li class = "list-group-item"><a href = "https://www.facebook.com/pages/GamingKing/1536255743322400">NIKUSHx Facebook Page</a></li>
+										<li class = "list-group-item"><a href = "https://www.youtube.com/channel/UCnmzMHiCu-pyLAlGbyCNhCA">NIKUSHx YouTube (scrap)</a></li>
+										<li class = "list-group-item"><a href = "gifs.php">NIKUSHx's Psychedelic GIFs</a></li>
+										
+									</ul>
+									
+								</p>	
 						
 						</div>
 					</div>

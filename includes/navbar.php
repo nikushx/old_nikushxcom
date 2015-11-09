@@ -28,7 +28,7 @@
 					<ul class = "nav navbar-nav navbar-right">
 
 						<li class = "<?php if ("/index.php" == $currentpage) {echo "active";} else {} ?>"><a href = "index.php">Home</a></li>
-						<li class = "<?php if ("/links.php" == $currentpage) {echo "active";} else {} ?>"><a href = "links.php">Links/Downloads</a></li>
+						<li class = "<?php if ("/links.php" == $currentpage) {echo "active";} else {} ?>"><a href = "links.php">Links</a></li>
 						<li><a href = "#contact" data-toggle = "modal">Contact</a></li>
 
 
